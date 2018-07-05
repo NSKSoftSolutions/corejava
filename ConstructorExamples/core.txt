@@ -1,0 +1,10 @@
+came inside the main method and started executing  things
+excecuting the 1 Employee() Constuctr
+The value whicj are coming from clien is:10
+excecuting the 1 Employee() Constuctr
+The value whicj are coming from clien is:30
+30
+Addition of two numbers:30
+value of interger:10
+value of float:3.5
+value of char:S
