@@ -1,0 +1,21 @@
+Came inside the main method
+Came to shope buying mobile:Apple
+=====================+========================
+came inside the showroom
+buying clothes:Indian Terrian
+paying bills
+Coming out of shop
+hello world
+came inside the showroom
+buying clothes:Indian Terrian
+paying bills
+Coming out of shop
+came inside the showroom
+buying clothes:Indian Terrian
+paying bills
+Coming out of shop
+came inside the showroom
+buying clothes:Indian Terrian
+paying bills
+Coming out of shop
+Came to shope buying mobile:Apple
