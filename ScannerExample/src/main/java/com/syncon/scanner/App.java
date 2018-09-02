@@ -2,6 +2,7 @@ package com.syncon.scanner;
 
 import org.apache.log4j.Logger;
 
+import com.syncon.scanner.bussinessclass.Example;
 import com.syncon.scanner.bussinessclass.RandaomExample;
 
 /**
@@ -19,6 +20,10 @@ public class App {
 		RandaomExample random_example = new RandaomExample();
 		
 			random_example.generateRandomNumber();
-
+           
+			Example e=new Example();
+			e.disp();
+			
+			
 			}
 }
