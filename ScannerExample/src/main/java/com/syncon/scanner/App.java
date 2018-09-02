@@ -22,6 +22,7 @@ public class App {
 			random_example.generateRandomNumber();
            
 			Example e=new Example();
+			e.addition();
 			e.disp();
 			
 			
