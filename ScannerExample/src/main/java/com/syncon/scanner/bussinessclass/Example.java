@@ -16,9 +16,7 @@ public class Example {
 		int value1 = s.nextInt();
 		System.out.println("enter 2nd value");
 		int value2 = s.nextInt();
-		/*
-		 * int value1=30; int value2=20;
-		 */
+		
 		value3 = (value1 + value2);
 		logger.info("Addition of two=" + value3);
 
